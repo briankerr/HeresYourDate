@@ -1,0 +1,30 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.bold {
+    font-weight: 900; !important;
+}
+body {
+    padding-top: 55px;
+    text-align:center;
+}
+.option_text {
+    color: blue;
+}
+.option_img {
+    height: 450px;
+}
+.take_it_or_leave_it_text {
+    color: red;
+}
+h1 {
+    font-size: 80px;
+}
+h2 {
+    font-size: 70px;
+}
+h3 {
+    font-size: 60px;
+}
