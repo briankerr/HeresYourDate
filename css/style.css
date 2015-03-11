@@ -9,16 +9,16 @@
 body {
     padding-top: 55px;
     text-align:center;
-    background: lightgrey;
+    background: #AAAAAA;
 }
 .option_text {
-    color: blue;
+    color: #0074D9;
 }
 .option_img {
     height: 450px;
 }
 .take_it_or_leave_it_text {
-    color: red;
+    color: #FF4136;
 }
 h1 {
     font-size: 80px;
